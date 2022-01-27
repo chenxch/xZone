@@ -1,2 +1,2 @@
-# xc-controller
+# xZone
 chrome extensions by xc
